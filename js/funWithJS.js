@@ -15,7 +15,7 @@ document.getElementById('wrapper05').innerHTML = "Nitrogen: " + ppmN + "<br>Phos
 }
 
 document.getElementById('wrapper03').innerHTML = "<button onclick='ppmCalc()'>Calculate</button>";
-document.getElementById('wrapper04').innerHTML = "<hr>PPM<br>";
+document.getElementById('wrapper04').innerHTML = "<hr><h3>PPM</h3><br>";
 
 
 
